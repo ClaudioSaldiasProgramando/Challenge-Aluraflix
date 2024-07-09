@@ -1,7 +1,7 @@
 Challenge AluraFlix
--Link al proyecto alojado en vercel: https://challenge-aluraflix.vercel.app
+-Link al deploy vercel: https://challenge-aluraflix-rho.vercel.app/
 
-ultimo desafio  front end de alura latam 
+con esto concluyo el ultimo desafio  front end de alura latam 
 
 
 claudio matias saldias apablaza 2024"# Challenge-Aluraflix" 
